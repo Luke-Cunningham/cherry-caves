@@ -1,0 +1,7 @@
+* Moving platform 
+* Purple Octopus movement
+
+Add one or more cherries to the level that puts Berry into "frenzy" mode
+* He stays in this mode for 5 seconds (play the snd_frenzy during that time)
+* While in frenzy mode, change Berry in some way (his size, his image color, something)
+* While he's in frenzy mode, he can just collide with any enemy and destroy them, no need to jump on them and he can't be destroyed by them
